@@ -1,0 +1,102 @@
+movie.html
+
+movie name text box
+released year text box
+language text box
+actor text box
+actress text box
+director text box
+sumbit button
+
+--------------------------------------------------------------
+
+employee.html
+
+emloyee name tb
+employee code tb
+dob tb
+company name tb
+salary tb
+designation tb
+email id tb
+password tb
+confirm password tb
+submit button below
+
+----------------------------------------------------
+
+product name 
+product code
+description
+manufacturing date
+expiry date 
+price
+submit
+
+------------------------------------------------------------
+bootstrap
+
+
+name		class
+table		table
+input 		form-control
+button		btn btn-colour
+		>>btn btn-success (green)
+		>>btn btn-info (pale blue)
+		>>btn btn-danger (red)
+		>>btn btn-warning (yellow)
+		>>btn btn-success (green)
+
+
+
+facullty name
+departmente
+educational qualification
+insti nmae
+contact num
+email id
+address
+pimn cose
+designmation
+salry
+username
+pdwd
+confirm pswd
+register
+
+
+
+shop .htnl
+------------------------
+shop img  input file
+shop name
+shop descrip
+address    	//textarea.form-control
+website
+email id
+submit
+
+
+recipe.html
+--------------------
+recipe img
+recipe title
+ingredients list	//textarea.form-control
+prepared by
+remarks
+submit
+
+students,html
+------------------------------
+name 
+id
+roll no
+parent email,name,mobile num,
+adress		//textarea.form-control
+blood group
+submit
+
+
+
+
+		
